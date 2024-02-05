@@ -83,4 +83,5 @@ int main() {
 	std::cout << "налоги: " << taxes << "\n";
 	std::cout << "расходы на ремонт машины: " << carrepaircosts << "\n";
 	std::cout << "итого доход: " << totalprofit << "\n";
+	std::cout << "Благодарю за использование!";
 }	
